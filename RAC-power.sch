@@ -1866,7 +1866,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <busses>
 </busses>
 <nets>
-<net name="N$1" class="0">
+<net name="SW" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="SW"/>
 <pinref part="L1" gate="G$1" pin="2"/>
@@ -1981,7 +1981,7 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <label x="-58.42" y="10.16" size="1.778" layer="95" rot="MR0"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="VFB" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="VFB"/>
 <wire x1="43.18" y1="12.7" x2="48.26" y2="12.7" width="0.1524" layer="91"/>
